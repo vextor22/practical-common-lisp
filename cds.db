@@ -1,0 +1,2 @@
+
+((:TITLE "hello" :ARTIST "again" :RATING 2 :RIPPED T) (:TITLE "hello" :ARTIST "weorld" :RATING 7 :RIPPED NIL) (:TITLE "roses 2" :ARTIST "kathy again" :RATING 2 :RIPPED NIL) (:TITLE "roses" :ARTIST "kathy" :RATING 7 :RIPPED T)) 
